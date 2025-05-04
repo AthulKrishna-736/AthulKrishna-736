@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Athul Krishna K S</h1>
-<h3 align="center">MERN Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Athul+Krishna+K+S;MERN+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="mailto:athulkrishna736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
