@@ -1,49 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Athul Krishna K S - MERN Stack Developer</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Courier New', monospace;
-      background-color: #111;
-      color: white;
-    }
-    h1 {
-      font-size: 42px;
-      color: #00FFFF;
-      text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
-    }
-    h3 {
-      font-family: 'Lucida Console', monospace;
-      color: #38BDF8;
-    }
-    .badge {
-      margin-right: 10px;
-    }
-    .container {
-      max-width: 900px;
-    }
-    .stats {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-    }
-    .social-links img {
-      margin: 10px;
-    }
-    @media (max-width: 768px) {
-      h1 {
-        font-size: 30px;
-      }
-    }
-  </style>
-</head>
-<body>
-
 <div class="container text-center py-5">
   <h1>👾 Athul Krishna K S 👾</h1>
   <h3>MERN Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
@@ -109,6 +63,3 @@
   </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
