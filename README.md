@@ -1,7 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=80&lines=Hi+👋%2C+I'm+Athul+Krishna+K+S;MERN+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 42px; color: #00FFFF; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">
+  👾 Athul Krishna K S 👾
 </h1>
 
+<h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">
+  MERN Stack Developer | Open Source Enthusiast | Lifelong Learner
+</h3>
 
 <p align="center">
   <a href="mailto:athulkrishna736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
