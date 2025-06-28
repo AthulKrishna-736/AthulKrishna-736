@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; font-size: 42px; color: #00FFFF; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">
-  👾 Athul Krishna K S 👾
+  Athul Krishna K S
 </h1>
 
 <h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">
