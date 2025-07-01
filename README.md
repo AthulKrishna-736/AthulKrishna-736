@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">
-  MERN Stack Developer | Open Source Enthusiast | Lifelong Learner
+MERN Stack Developer | Open Source Contributor | Continuous Learner
 </h3>
 
 <p align="center">
