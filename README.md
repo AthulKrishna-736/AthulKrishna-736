@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">
-🚀 Future SDE | Hardcore Dev with a Researcher’s Mindset | Traveller of Worlds & Webs 🌍
+🚀 SWE | Hardcore Dev with a Researcher’s Mindset | Traveller of Worlds & Webs 🌍
 </h3>
 
 <p align="center">
