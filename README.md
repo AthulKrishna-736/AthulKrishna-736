@@ -62,10 +62,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulKrishna-736&theme=radical" alt="Athul's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna-736&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
