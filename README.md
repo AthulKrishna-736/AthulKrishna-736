@@ -59,14 +59,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthulKrishna-736&show_icons=true&theme=radical" alt="Athul's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AthulKrishna-736&theme=radical" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna-736&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
