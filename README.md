@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AthulKrishna-736/AthulKrishna-736/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AthulKrishna-736&theme=radical" alt="Activity Graph" />
 </p>
 
 <p align="center">
