@@ -2,9 +2,7 @@
   Athul Krishna K S
 </h1>
 
-<h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">
-🚀 SWE | Hardcore Dev with a Researcher’s Mindset | Traveller of Worlds & Webs 🌍
-</h3>
+<h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">Where Curiosity Meets Code | Ideas Forged into Reality</h3>
 
 <p align="center">
   <a href="mailto:athulkrishna736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
