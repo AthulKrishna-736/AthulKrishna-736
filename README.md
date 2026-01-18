@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-FF0055?style=flat&logo=railway&logoColor=white" />
 </p>
 
 <p align="center">
