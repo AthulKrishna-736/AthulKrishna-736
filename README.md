@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 </p>
 
 <h3 align="left">Frontend Development:</h3>
@@ -33,6 +34,7 @@
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
@@ -42,7 +44,7 @@
 <h3 align="left">Databases:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=databricks&logoColor=white" />
 </p>
 
 <h3 align="left">Tools & Platforms:</h3>
