@@ -1,14 +1,33 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 42px; color: #00FFFF; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">
-  Athul Krishna K S
-</h1>
+<div align="center">
 
-<h3 align="center" style="font-family: 'Lucida Console', monospace; color: #38BDF8;">Where Curiosity Meets Code | Ideas Forged into Reality</h3>
+# `Athul Krishna K S`
 
-<p align="center">
-  <a href="mailto:athulkrishna736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/athul-krishna-ks-573a55317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AthulKrishna-736"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+### `> Where curiosity meets code.`
+
+**Building ideas · Exploring technology · Turning concepts into reality**
+
+<p>
+  <a href="mailto:athulkrishna736@gmail.com">
+    <img src="https://img.shields.io/badge/email-00FFFF?style=flat-square&logo=gmail&logoColor=0B0F14&labelColor=00FFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/athul-krishna-ks-573a55317/">
+    <img src="https://img.shields.io/badge/linkedin-38BDF8?style=flat-square&logo=linkedin&logoColor=0B0F14&labelColor=38BDF8" />
+  </a>
+  <a href="https://github.com/AthulKrishna-736">
+    <img src="https://img.shields.io/badge/github-E2E8F0?style=flat-square&logo=github&logoColor=0B0F14&labelColor=E2E8F0" />
+  </a>
 </p>
+
+```text
+┌──────────────────────────────────────────────┐
+│  ~/athul-krishna                             │
+│                                              │
+│  $ whoami                                    │
+│  developer • builder • problem solver        │
+└──────────────────────────────────────────────┘
+```
+
+</div>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
