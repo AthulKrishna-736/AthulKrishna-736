@@ -1,58 +1,47 @@
-```
-DEVELOPER(1)                 General Commands Manual                DEVELOPER(1)
+# Language-Agnostic Developer
 
-NAME
-       developer — turns problems into working systems
+*Languages change. Tools change. Fundamentals stay.*
 
-SYNOPSIS
-       build [--correct] [--fast] [--both] [--understand-why]
+I build across the stack — frontend, backend, systems, infrastructure — because I care less about which framework is trending and more about what's actually happening underneath it. Give me a new language or tool and I'll get comfortable fast; the underlying ideas rarely move.
 
-DESCRIPTION
-       A language-agnostic developer who cares more about what's happening
-       under the abstraction than which framework is trending this month.
+<br>
 
-       Comfortable moving across the stack — frontend, backend, systems,
-       infra — because the fundamentals underneath don't change even when
-       the tools do.
+## What I actually think about
 
-              "learn → build → break → understand → repeat"
-```
+Not "which framework" but *data structures, algorithms, concurrency, memory, networking, system design.* Frameworks are a thin layer on top of things that don't really change. I'd rather be fluent in the layer underneath.
 
-## OPTIONS
+<br>
 
-**`--languages`**
-JavaScript · TypeScript · C · C++ · Java · Go
+## Stack
 
-**`--frontend`**
-React · Redux · React Router · Angular · Tailwind CSS · Material UI · Bootstrap · HTML · CSS
+| | |
+|---|---|
+| **Languages** | JavaScript, TypeScript, C, C++, Java, Go |
+| **Frontend** | React, Redux, React Router, Angular, Tailwind CSS, Material UI, Bootstrap, HTML/CSS |
+| **Backend** | Go (Gin), Node.js, Express, Socket.IO, Redis |
+| **Data** | MongoDB, SQL |
+| **Infra** | Linux, Docker, Nginx, Git, GitHub, Postman, VS Code |
+| **Cloud** | AWS (EC2, S3, Amplify), Vercel, Railway |
 
-**`--backend`**
-Go (Gin) · Node.js · Express · Socket.IO · Redis
+<br>
 
-**`--data`**
-MongoDB · SQL
+## How I work
 
-**`--infra`**
-Linux · Docker · Nginx · Git · GitHub · Postman · VS Code
+- Understand the problem before touching the tool
+- Prefer boring, well-understood solutions over clever ones
+- Read the docs, then read the source when the docs run out
+- Ship it, then make it better
 
-**`--cloud`**
-AWS EC2 · AWS S3 · AWS Amplify · Vercel · Railway
+<br>
 
-```
-FUNDAMENTALS
-       data structures       algorithms          abstraction
-       object orientation    concurrency         networking
-       memory management     processes           databases
-       operating systems     system design       debugging
+## Currently
 
-EXIT STATUS
-       0   shipped, and it actually works
-       1   still debugging, don't wait up
+Learn something new → build with it → break it on purpose → understand why it broke → repeat.
 
-SEE ALSO
-       mailto:athulkrishna736@gmail.com
-       https://www.linkedin.com/in/athul-krishna-ks-573a55317/
-       https://github.com/AthulKrishna-736
+<br>
 
-DEVELOPER(1)                     2026                             DEVELOPER(1)
-```
+---
+
+<br>
+
+**Reach me:** [athulkrishna736@gmail.com](mailto:athulkrishna736@gmail.com) · [LinkedIn](https://www.linkedin.com/in/athul-krishna-ks-573a55317/) · [GitHub](https://github.com/AthulKrishna-736)
