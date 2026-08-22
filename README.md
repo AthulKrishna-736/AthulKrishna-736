@@ -2,7 +2,7 @@
 
 *Languages change. Tools change. Fundamentals stay.*
 
-I build across the stack — frontend, backend, systems, infrastructure — because I care less about which framework is trending and more about what's actually happening underneath it. Give me a new language or tool and I'll get comfortable fast; the underlying ideas rarely move.
+I build across the stack frontend, backend, systems, infrastructure — because I care less about which framework is trending and more about what's actually happening underneath it. Give me a new language or tool and I'll get comfortable fast; the underlying ideas rarely move.
 
 <br>
 
